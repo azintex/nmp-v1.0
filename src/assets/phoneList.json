@@ -1,0 +1,32 @@
+[
+    {
+      "id" : 1,
+      "operator" : "Azercell",
+      "prefix" : "(050)"
+    },
+    {
+      "id" : 2,
+      "operator" : "Azercell",
+      "prefix" : "(051)"
+    },
+    {
+      "id" : 3,
+      "operator" : "Bakcell",
+      "prefix" : "(055)"
+    },
+    {
+      "id" : 4,
+      "operator" : "NAR",
+      "prefix" : "(070)"
+    },
+    {
+      "id" : 5,
+      "operator" : "NAR",
+      "prefix" : "(077)"
+    },
+    {
+      "id" : 6,
+      "operator" : "BTRIB",
+      "prefix" : "(012)"
+    }
+]
